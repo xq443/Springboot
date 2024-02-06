@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="global-superstore (2)" />
+        <module name="grade-submission (9)" />
+        <module name="grade-submission (5)" />
+        <module name="global-superstore (6)" />
+        <module name="workbook (21)" />
+        <module name="workbook (13)" />
+        <module name="contacts (12)" />
+        <module name="javagram (2)" />
+        <module name="contacts (2)" />
+        <module name="workbook (17)" />
+        <module name="contacts (6)" />
+        <module name="grade-submission (24)" />
+        <module name="grade-submission (12)" />
+        <module name="grade-submission (28)" />
+        <module name="grade-submission (16)" />
+        <module name="workbook (4)" />
+        <module name="workbook (8)" />
+        <module name="global-superstore (5)" />
+        <module name="workbook (10)" />
+        <module name="grade-submission (6)" />
+        <module name="contacts (11)" />
+        <module name="workbook (14)" />
+        <module name="javagram (1)" />
+        <module name="workbook (22)" />
+        <module name="grade-submission (20)" />
+        <module name="workbook (18)" />
+        <module name="contacts (3)" />
+        <module name="grade-submission (13)" />
+        <module name="grade-submission (25)" />
+        <module name="workbook (19)" />
+        <module name="contacts (7)" />
+        <module name="grade-submission (17)" />
+        <module name="grade-submission (29)" />
+        <module name="workbook (3)" />
+        <module name="grade-submission (1)" />
+        <module name="workbook (7)" />
+        <module name="utility-methods" />
+        <module name="global-superstore (1)" />
+        <module name="global-superstore (4)" />
+        <module name="grade-submission (7)" />
+        <module name="global-superstore (8)" />
+        <module name="contacts (10)" />
+        <module name="workbook (11)" />
+        <module name="workbook (23)" />
+        <module name="demo" />
+        <module name="grade-submission (21)" />
+        <module name="contacts (14)" />
+        <module name="contacts (4)" />
+        <module name="workbook (15)" />
+        <module name="grade-submission (14)" />
+        <module name="contacts (8)" />
+        <module name="grade-submission (22)" />
+        <module name="grade-submission (18)" />
+        <module name="grade-submission (26)" />
+        <module name="workbook (2)" />
+        <module name="grade-submission (2)" />
+        <module name="workbook (6)" />
+        <module name="grade-submission (8)" />
+        <module name="global-superstore (3)" />
+        <module name="grade-submission (4)" />
+        <module name="javagram (3)" />
+        <module name="workbook (20)" />
+        <module name="global-superstore (7)" />
+        <module name="contacts (13)" />
+        <module name="workbook (12)" />
+        <module name="contacts (1)" />
+        <module name="grade-submission (10)" />
+        <module name="workbook (16)" />
+        <module name="grade-submission (30)" />
+        <module name="contacts (5)" />
+        <module name="grade-submission (11)" />
+        <module name="grade-submission (23)" />
+        <module name="contacts (9)" />
+        <module name="painting" />
+        <module name="workbook (1)" />
+        <module name="grade-submission (15)" />
+        <module name="grade-submission (27)" />
+        <module name="workbook (5)" />
+        <module name="grade-submission (19)" />
+        <module name="grade-submission (3)" />
+        <module name="conditionals" />
+        <module name="workbook (9)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="contacts" target="1.5" />
+      <module name="global-superstore" target="1.5" />
+      <module name="grade-submission" target="1.5" />
+      <module name="javagram" target="1.5" />
+      <module name="workbook" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="conditionals" options="-parameters" />
+      <module name="contacts (1)" options="-parameters" />
+      <module name="contacts (10)" options="-parameters" />
+      <module name="contacts (11)" options="-parameters" />
+      <module name="contacts (12)" options="-parameters" />
+      <module name="contacts (13)" options="-parameters" />
+      <module name="contacts (14)" options="-parameters" />
+      <module name="contacts (2)" options="-parameters" />
+      <module name="contacts (3)" options="-parameters" />
+      <module name="contacts (4)" options="-parameters" />
+      <module name="contacts (5)" options="-parameters" />
+      <module name="contacts (6)" options="-parameters" />
+      <module name="contacts (7)" options="-parameters" />
+      <module name="contacts (8)" options="-parameters" />
+      <module name="contacts (9)" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="global-superstore (1)" options="-parameters" />
+      <module name="global-superstore (2)" options="-parameters" />
+      <module name="global-superstore (3)" options="-parameters" />
+      <module name="global-superstore (4)" options="-parameters" />
+      <module name="global-superstore (5)" options="-parameters" />
+      <module name="global-superstore (6)" options="-parameters" />
+      <module name="global-superstore (7)" options="-parameters" />
+      <module name="global-superstore (8)" options="-parameters" />
+      <module name="grade-submission (1)" options="-parameters" />
+      <module name="grade-submission (10)" options="-parameters" />
+      <module name="grade-submission (11)" options="-parameters" />
+      <module name="grade-submission (12)" options="-parameters" />
+      <module name="grade-submission (13)" options="-parameters" />
+      <module name="grade-submission (14)" options="-parameters" />
+      <module name="grade-submission (15)" options="-parameters" />
+      <module name="grade-submission (16)" options="-parameters" />
+      <module name="grade-submission (17)" options="-parameters" />
+      <module name="grade-submission (18)" options="-parameters" />
+      <module name="grade-submission (19)" options="-parameters" />
+      <module name="grade-submission (2)" options="-parameters" />
+      <module name="grade-submission (20)" options="-parameters" />
+      <module name="grade-submission (21)" options="-parameters" />
+      <module name="grade-submission (22)" options="-parameters" />
+      <module name="grade-submission (23)" options="-parameters" />
+      <module name="grade-submission (24)" options="-parameters" />
+      <module name="grade-submission (25)" options="-parameters" />
+      <module name="grade-submission (26)" options="-parameters" />
+      <module name="grade-submission (27)" options="-parameters" />
+      <module name="grade-submission (28)" options="-parameters" />
+      <module name="grade-submission (29)" options="-parameters" />
+      <module name="grade-submission (3)" options="-parameters" />
+      <module name="grade-submission (30)" options="-parameters" />
+      <module name="grade-submission (4)" options="-parameters" />
+      <module name="grade-submission (5)" options="-parameters" />
+      <module name="grade-submission (6)" options="-parameters" />
+      <module name="grade-submission (7)" options="-parameters" />
+      <module name="grade-submission (8)" options="-parameters" />
+      <module name="grade-submission (9)" options="-parameters" />
+      <module name="javagram (1)" options="-parameters" />
+      <module name="javagram (2)" options="-parameters" />
+      <module name="javagram (3)" options="-parameters" />
+      <module name="painting" options="-parameters" />
+      <module name="utility-methods" options="-parameters" />
+      <module name="workbook (1)" options="-parameters" />
+      <module name="workbook (10)" options="-parameters" />
+      <module name="workbook (11)" options="-parameters" />
+      <module name="workbook (12)" options="-parameters" />
+      <module name="workbook (13)" options="-parameters" />
+      <module name="workbook (14)" options="-parameters" />
+      <module name="workbook (15)" options="-parameters" />
+      <module name="workbook (16)" options="-parameters" />
+      <module name="workbook (17)" options="-parameters" />
+      <module name="workbook (18)" options="-parameters" />
+      <module name="workbook (19)" options="-parameters" />
+      <module name="workbook (2)" options="-parameters" />
+      <module name="workbook (20)" options="-parameters" />
+      <module name="workbook (21)" options="-parameters" />
+      <module name="workbook (22)" options="-parameters" />
+      <module name="workbook (23)" options="-parameters" />
+      <module name="workbook (3)" options="-parameters" />
+      <module name="workbook (4)" options="-parameters" />
+      <module name="workbook (5)" options="-parameters" />
+      <module name="workbook (6)" options="-parameters" />
+      <module name="workbook (7)" options="-parameters" />
+      <module name="workbook (8)" options="-parameters" />
+      <module name="workbook (9)" options="-parameters" />
+    </option>
+  </component>
+</project>

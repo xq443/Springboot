@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Shows</title>
+</head>
+<body>
+<h2>IMDB: Top 5 Episodes</h2>
+<table width="100%" border="solid">
+  <tr>
+    <th>Title</th>
+    <th>Episode</th>
+    <th>Rating</th>
+  </tr>
+  <tr th:object="${first}">
+    <td th:text="${first.title}">Breaking Bad</td>
+    <td th:text="${first.episode}">Ozymandias</td>
+    <td th:text="${first.rating}">10.0</td>
+  </tr>
+  <tr th:object="${second}">
+    <td th:text="${second.title}">Attack on Titan</td>
+    <td th:text="${second.episode}">Hero</td>
+    <td th:text="${second.rating}">9.9</td>
+  </tr>
+  <tr th:object="${third}">
+    <td th:text="${third.title}">Attack on Titan</td>
+    <td th:text="${third.episode}">Perfect Game</td>
+    <td th:text="${third.rating}">9.9</td>
+  </tr>
+  <tr th:object="${fourth}">
+    <td th:text="${fourth.title}">Star Wars: The Clone Wars</td>
+    <td th:text="${fourth.episode}">Victory and Death</td>
+    <td th:text="${fourth.rating}">9.9</td>
+  </tr>
+  <tr th:object="${fifth}">
+    <td th:text="${fifth.title}">Mr. Robot</td>
+    <td th:text="${fifth.episode}">407 Proxy Authentication Required</td>
+    <td th:text="${fifth.rating}">9.9</td>
+  </tr>
+</table>
+</body>
+</html>

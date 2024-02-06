@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/05. beans/workbook 5.1/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/05. beans/workbook 5.1/solution/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/05. beans/grade-submission/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/05. beans/grade-submission/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/05. beans/global-superstore/final/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/05. beans/global-superstore/starter/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/06. testing/grade-submission/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/06. testing/grade-submission/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/contacts/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/contacts/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/workbook 8.1/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/workbook 8.1/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/workbook 8.2/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/workbook 8.2/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/workbook 8.3/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/workbook 8.3/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/challenge-testing/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/challenge-testing/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/challenge-documentation/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/08. rest-api/challenge-documentation/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/07. react-spring/grade-submission/starter/grades-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/challenge/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/challenge/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/spring-jpa/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/spring-jpa/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.1/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.1/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.2/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.2/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.3/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.3/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.4/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/Workbook 9.4/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/challenge-two/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/09. sql-database/challenge-two/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/10. spring-security/auth-jwt/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/10. spring-security/auth-jwt/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/10. spring-security/auth-basic/final/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/10. spring-security/auth-basic/starter/contacts/pom.xml" />
+        <option value="$PROJECT_DIR$/10. spring-security/workbook 10.1/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/10. spring-security/workbook 10.1/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/workbook 3.1/solution/javagram/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/workbook 3.2/solution/javagram/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/workbook 3.3/solution/javagram/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/grade-submission/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/grade-submission/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/global-superstore/final/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/03. field-validation/global-superstore/starter/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/01. intro-to-springboot/challenge/solution/painting/pom.xml" />
+        <option value="$PROJECT_DIR$/01. intro-to-springboot/workbook 1.2/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/01. intro-to-springboot/workbook 1.3/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/04. three-layer-codebase/grade-submission/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/04. three-layer-codebase/grade-submission/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/04. three-layer-codebase/global-superstore/final/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/04. three-layer-codebase/global-superstore/starter/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/conditionals/starter/conditionals/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.1/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.2/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.2/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.3/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.3/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.4/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.4/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.5/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.5/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.6/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.6/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.7/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.7/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.8/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.8/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.9/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.9/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.10/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.10/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.11/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/workbook 2.11/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/utility-methods/starter/utility-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/grade-submission/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/grade-submission/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/global-superstore/starter/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/02. model-view-controller/global-superstore/solution/global-superstore/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

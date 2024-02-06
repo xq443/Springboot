@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01. intro-to-springboot/challenge/solution/painting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. intro-to-springboot/workbook 1.2/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. intro-to-springboot/workbook 1.3/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/conditionals/starter/conditionals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/global-superstore/solution/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/global-superstore/starter/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/grade-submission/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/grade-submission/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/utility-methods/starter/utility-methods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.1/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.10/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.10/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.11/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.11/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.2/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.2/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.3/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.3/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.4/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.4/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.5/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.5/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.6/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.6/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.7/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.7/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.8/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.8/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.9/solution/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02. model-view-controller/workbook 2.9/starter/workbook/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/global-superstore/final/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/global-superstore/starter/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/grade-submission/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/grade-submission/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/workbook 3.1/solution/javagram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/workbook 3.2/solution/javagram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03. field-validation/workbook 3.3/solution/javagram/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04. three-layer-codebase/global-superstore/final/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04. three-layer-codebase/global-superstore/starter/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04. three-layer-codebase/grade-submission/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04. three-layer-codebase/grade-submission/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05. beans/global-superstore/final/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05. beans/global-superstore/starter/global-superstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05. beans/grade-submission/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05. beans/grade-submission/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05. beans/workbook 5.1/solution/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05. beans/workbook 5.1/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06. testing/grade-submission/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06. testing/grade-submission/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07. react-spring/grade-submission/starter/grades-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/challenge-documentation/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/challenge-documentation/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/challenge-testing/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/challenge-testing/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/contacts/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/contacts/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/workbook 8.1/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/workbook 8.1/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/workbook 8.2/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/workbook 8.2/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/workbook 8.3/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08. rest-api/workbook 8.3/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.1/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.1/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.2/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.2/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.3/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.3/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.4/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/Workbook 9.4/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/challenge-two/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/challenge-two/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/challenge/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/challenge/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/spring-jpa/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09. sql-database/spring-jpa/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10. spring-security/auth-basic/final/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10. spring-security/auth-basic/starter/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10. spring-security/auth-jwt/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10. spring-security/auth-jwt/starter/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10. spring-security/workbook 10.1/final/grade-submission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10. spring-security/workbook 10.1/starter/grade-submission/src/main/java" charset="UTF-8" />
+  </component>
+</project>

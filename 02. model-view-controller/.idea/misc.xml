@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/conditionals/starter/conditionals/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.1/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.2/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.2/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.3/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.3/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.4/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.4/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.5/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.5/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.6/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.6/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.7/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.7/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.8/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.8/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.9/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.9/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.10/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.10/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.11/starter/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook 2.11/solution/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/utility-methods/starter/utility-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/grade-submission/final/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/grade-submission/starter/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/global-superstore/starter/global-superstore/pom.xml" />
+        <option value="$PROJECT_DIR$/global-superstore/solution/global-superstore/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

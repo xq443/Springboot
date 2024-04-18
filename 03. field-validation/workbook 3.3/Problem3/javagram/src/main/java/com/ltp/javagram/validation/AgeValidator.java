@@ -7,10 +7,11 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 public class AgeValidator implements ConstraintValidator<Age, Date> {
+    //ConstraintValidator<A,T>: A -> class, T-> field
     @Override
     public boolean isValid(Date value, ConstraintValidatorContext context) {
         long diff = new Date().getTime() - value.getTime();
         int age = (int) (TimeUnit.MILLISECONDS.toDays(diff) / 365);
-        return age > 18;
+        return age >= 18;
     }
 }

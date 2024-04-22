@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.model;
+package com.ltp.gradesubmission.repository;
 
 import com.ltp.gradesubmission.Grade;
 import java.util.ArrayList;

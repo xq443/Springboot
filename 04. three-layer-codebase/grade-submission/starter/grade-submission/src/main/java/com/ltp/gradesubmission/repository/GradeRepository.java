@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GradeRepository {
-  private List<Grade> studentGrades = new ArrayList<>();
+  private final List<Grade> studentGrades = new ArrayList<>();
 
   public Grade getGrade(int index) {
     return studentGrades.get(index);

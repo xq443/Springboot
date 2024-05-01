@@ -14,4 +14,9 @@ public class Application {
   Application.run();
 }
 ```
-
+### Dependency injection
+- create an object inside of a class that depends on it -> tight coupling, and it makes unit testing impossible.
+- Instead, you should inject the object into the class to achieve loose coupling.
+- An object that another class depends on is called a dependency.
+- In this example, a great controller relies on the great service dependency, but you should never create a dependency inside of its dependent class.
+- The code will become interconnected and impossible to unit test.

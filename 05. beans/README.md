@@ -21,4 +21,46 @@ public class Application {
 - @Bean: method-level annotation for bean definitions.
 - @Autowired injects the bean where it's needed.
 
+Defining Beans (Java)
+```
+@Configuration
+public class AppConfig {
+
+
+    @Bean
+    public SomeObject method() {
+        return new SomeObject();
+    }
+}
+```
+
+Defining Beans (XML)
+```
+AppConfig.java
+
+@Configuration
+@ImportResource("app-config.xml")
+public class AppConfig {
+...
+}
+
+
+app-config.xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+	<bean id="choose a name for the bean" class="path to class"> </bean>
+	<bean id="choose a name for the bean" class="path to class"> </bean>
+</beans>
+```
+
+
 

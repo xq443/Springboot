@@ -15,8 +15,10 @@ public class Application {
 }
 ```
 ### Dependency injection
-- create an object inside of a class that depends on it -> tight coupling, and it makes unit testing impossible.
-- Instead, you should inject the object into the class to achieve loose coupling.
-- An object that another class depends on is called a dependency.
-- In this example, a great controller relies on the great service dependency, but you should never create a dependency inside of its dependent class.
-- The code will become interconnected and impossible to unit test.
+- As the @SpringBootApplication performs a @ComponentScan, a bean is created from classes marked with @Component.
+- @Controller, @Service and @Repository derive from @Component.
+- @Configuration: marks a class as a source for bean definitions.
+- @Bean: method-level annotation for bean definitions.
+- @Autowired injects the bean where it's needed.
+
+

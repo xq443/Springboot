@@ -5,10 +5,14 @@ import java.util.List;
 import com.ltp.gradesubmission.Constants;
 import com.ltp.gradesubmission.Grade;
 import com.ltp.gradesubmission.repository.GradeRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component
 public class GradeService {
-    
-    GradeRepository gradeRepository = new GradeRepository();
+
+    @Autowired
+    GradeRepository gradeRepository;
 
     public Grade getGrade(int index) {
         return gradeRepository.getGrade(index);

@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.ltp.gradesubmission.Grade;
+import org.springframework.stereotype.Component;
 
+@Component
 public class GradeRepository {
     
     private List<Grade> studentGrades = new ArrayList<>();

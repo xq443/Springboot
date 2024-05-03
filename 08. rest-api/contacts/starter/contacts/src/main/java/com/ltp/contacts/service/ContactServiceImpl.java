@@ -49,5 +49,4 @@ public class ContactServiceImpl implements ContactService {
             .findFirst()
             .orElseThrow();
     }
-
 }

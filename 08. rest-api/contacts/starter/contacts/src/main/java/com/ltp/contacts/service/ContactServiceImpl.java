@@ -1,6 +1,7 @@
 package com.ltp.contacts.service;
 
 import com.ltp.contacts.pojo.Contact;
+import java.util.List;
 import java.util.stream.IntStream;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,6 +31,16 @@ public class ContactServiceImpl implements ContactService {
     @Override
     public void updateContact(String id, Contact contact) {
         contactRepository.updateContact(findIndexById(id), contact);
+    }
+
+    @Override
+    public void deleteContact(String id) {
+        contactRepository.deleteContact(findIndexById(id));
+    }
+
+    @Override
+    public List<Contact> getContacts() {
+        return contactRepository.getContacts();
     }
 
     private int findIndexById(String id) {

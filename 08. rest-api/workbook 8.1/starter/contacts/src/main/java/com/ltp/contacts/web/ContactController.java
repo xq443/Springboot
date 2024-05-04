@@ -2,6 +2,7 @@ package com.ltp.contacts.web;
 
 import java.util.List;
 
+import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -35,7 +36,7 @@ public class ContactController {
     }
     
     @PostMapping("/contact")
-    public ResponseEntity<HttpStatus> createContact(@RequestBody Contact contact) {
+    public ResponseEntity<HttpStatus> createContact(@Valid @RequestBody Contact contact) {
         contactService.saveContact(contact);
         return new ResponseEntity<>(HttpStatus.CREATED);
     }

@@ -1,6 +1,6 @@
 package com.ltp.contacts.service;
 
-import com.ltp.contacts.exception.NoContactException;
+import com.ltp.contacts.exception.ContactNotFoundException;
 import java.util.List;
 import java.util.stream.IntStream;
 
@@ -17,7 +17,7 @@ public class ContactServiceImpl implements ContactService {
     private ContactRepository contactRepository;
 
     @Override
-    public Contact getContactById(String id) throws NoContactException {
+    public Contact getContactById(String id) {
         return contactRepository.getContact(findIndexById(id));
     }
 
@@ -27,12 +27,12 @@ public class ContactServiceImpl implements ContactService {
     }
 
     @Override
-    public void updateContact(String id, Contact contact) throws NoContactException {
+    public void updateContact(String id, Contact contact) {
         contactRepository.updateContact(findIndexById(id), contact);
     }
 
     @Override
-    public void deleteContact(String id) throws NoContactException {
+    public void deleteContact(String id) {
         contactRepository.deleteContact(findIndexById(id)); 
     }
 
@@ -42,11 +42,11 @@ public class ContactServiceImpl implements ContactService {
     }
 
 
-    private int findIndexById(String id) throws NoContactException {
+    private int findIndexById(String id){
         return IntStream.range(0, contactRepository.getContacts().size())
             .filter(index -> contactRepository.getContacts().get(index).getId().equals(id))
             .findFirst()
-            .orElseThrow(() -> new NoContactException());
+            .orElseThrow(() -> new ContactNotFoundException(id));
     }
 
 }

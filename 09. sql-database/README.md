@@ -2,7 +2,7 @@
 - Create a student table
   - set up a student @Entity
   - each @Entity field maps to a table column @Column
-  - the primary key column uniquely identifies eacj record inside the table
+  - the primary key column uniquely identifies each record inside the table
  
 - Save data into the table
   - Spring JPA provides a CrudRepository

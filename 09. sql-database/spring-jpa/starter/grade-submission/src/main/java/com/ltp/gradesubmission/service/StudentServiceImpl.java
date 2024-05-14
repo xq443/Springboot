@@ -1,10 +1,18 @@
 package com.ltp.gradesubmission.service;
 
+import com.ltp.gradesubmission.repository.StudentRepository;
 import java.util.List;
 
 import com.ltp.gradesubmission.entity.Student;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
+
+@Service
 public class StudentServiceImpl implements StudentService {
+
+    @Autowired
+    StudentRepository studentRepository;
 
     @Override
     public Student getStudent(Long id) {
@@ -13,7 +21,7 @@ public class StudentServiceImpl implements StudentService {
 
     @Override
     public Student saveStudent(Student student) {
-        return null;
+        return studentRepository.save(student);
     }
 
     @Override

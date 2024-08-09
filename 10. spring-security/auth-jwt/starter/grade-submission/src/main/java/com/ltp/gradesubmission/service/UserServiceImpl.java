@@ -13,9 +13,8 @@ import lombok.AllArgsConstructor;
 @Service
 @AllArgsConstructor
 public class UserServiceImpl implements UserService {
-
     private UserRepository userRepository;
-	private BCryptPasswordEncoder bCryptPasswordEncoder;
+	  private BCryptPasswordEncoder bCryptPasswordEncoder;
 
     @Override
     public User getUser(Long id) {
@@ -24,9 +23,15 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
-    public User saveUser(User user) {
+    public void saveUser(User user) {
         user.setPassword(bCryptPasswordEncoder.encode(user.getPassword()));
-        return userRepository.save(user);
+        userRepository.save(user);
+    }
+
+    @Override
+    public User getUser(String username) {
+        Optional<User> user = userRepository.findByUsername(username);
+        return unwrapUser(user, 404L);
     }
 
     static User unwrapUser(Optional<User> entity, Long id) {

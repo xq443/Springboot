@@ -26,7 +26,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class User {
 
-    @Id
+	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 
@@ -36,8 +36,7 @@ public class User {
 	private String username;
 
 	@NotBlank(message =  "password cannot be blank")
-    @NonNull
+	@NonNull
 	@Column(nullable = false)
 	private String password;
-
 }

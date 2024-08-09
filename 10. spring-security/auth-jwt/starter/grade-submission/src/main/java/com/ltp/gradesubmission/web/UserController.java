@@ -22,11 +22,11 @@ import lombok.AllArgsConstructor;
 public class UserController {
 
 
-    UserService userService;
+	UserService userService;
 
 	@GetMapping("/{id}")
-	public ResponseEntity<User> findById(@PathVariable Long id) {
-		return new ResponseEntity<>(HttpStatus.OK);
+	public ResponseEntity<String> findById(@PathVariable Long id) {
+		return new ResponseEntity<>(userService.getUser(id).getUsername(), HttpStatus.OK);
 	}
 
 	@PostMapping("/register")
@@ -34,5 +34,4 @@ public class UserController {
 		userService.saveUser(user);
 		return new ResponseEntity<>(HttpStatus.CREATED);
 	}
-
 }
